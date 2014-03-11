@@ -5,3 +5,10 @@
 
 bin/
 target/
+.idea/
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings
